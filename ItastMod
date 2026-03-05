@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit: Basic board logic structure"
-git branch -M main
-git remote add origin https://github.com/sugamitu2005-lab/ItastMod.git
-git push -u origin main
